@@ -4,8 +4,8 @@
 [Download iron_farm_1_17.litematic](https://github.com/DevRedOWL/MinecraftSchematics/blob/master/Iron_Farm_1_17.litematic)
 ### Materials:
 | Item                        | Total | Missing |
-| --------------------------- | ----- | 
-| Железный блок               |  1370 |    1370 |
+| --------------------------- | ----- | ------- | ----------|
+| Железный блок               |  1370 |    1370 |         0 |
 | Белое стекло                |  1068 |    1068 |         0 |
 | Магма                       |   664 |     664 |         0 |
 | Энергорельсы                |   659 |     659 |         0 |
