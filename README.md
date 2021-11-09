@@ -24,9 +24,16 @@ This is an ultimate guide for dominating on any surviwal server without wasting 
 - Press `M+C` to open configuration menu
 - You can switch rendering (schematic preview) mode using `M+PgDown` and `M+PgUp` (When *One layer* mode enabled, use `PgUp` and `PgDown` without M to switch the layer)
 
-## Useful configuration tips
+## Tips
+### Configuration
 - You can adjust `Generic.printingDelay` and `Generic.printingRange` to avoid anticheats and aquire best printing performance. Best values is 0.02 for delay and 3 of range
 - `Generic.printInAir` should be disabled when you playing on server, otherwise you can be kicked with reason "*Flying is not allowed*"
+- `Generic.pasteReplaceBehaviour` allows you to make choice, if you want to replace air from schematic or not (I mean schematic paste, not printing!)
+- You can paste schematic using the stick and `Hotkeys.executeOperation` key (Change that key, because it usually conflicts with social button)
+
+## General tips
+- To optimize schematic with complicated shape, you can create if from several selections
+- Do not forget to create a previev for schematic after uploading using `Schematic manager` in litematica menu
 
 # Schematics
 ## Big iron farm
