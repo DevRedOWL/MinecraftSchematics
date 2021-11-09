@@ -34,7 +34,7 @@ This is an ultimate guide for dominating on any surviwal server without wasting 
 ## General
 - To optimize schematic with complicated shape, you can create if from several selections
 - Do not forget to create a previev for schematic after uploading using `Schematic manager` in litematica menu
-- When schematic is loaded you can save required resources to file, using `Save to file` button in `Loaded schematics` menu, and then press the link to file in chat to open it instantly
+- When schematic is loaded you can save required resources to file, using `Material list` button button in `Loaded schematics` -> `Configure` menu, and then press the link to file in chat to open it instantly
 
 # Schematics
 ## Big iron farm
@@ -43,8 +43,8 @@ This is an ultimate guide for dominating on any surviwal server without wasting 
 ### Materials:
 | Item                        | Total | Missing | Available |
 | --------------------------- | ----- | ------- | ----------|
-| Железный блок               |  1370 |    1370 |         0 |
-| Белое стекло                |  1068 |    1068 |         0 |
+| Песчаник                    |  1370 |    1370 |        64 |
+| Стекло                      |  1068 |    1068 |        64 |
 | Магма                       |   664 |     664 |         0 |
 | Энергорельсы                |   659 |     659 |         0 |
 | Ограда из каменного кирпича |   372 |     372 |         0 |
