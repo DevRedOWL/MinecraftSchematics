@@ -34,6 +34,7 @@ This is an ultimate guide for dominating on any surviwal server without wasting 
 ## General
 - To optimize schematic with complicated shape, you can create if from several selections
 - Do not forget to create a previev for schematic after uploading using `Schematic manager` in litematica menu
+- When schematic is loaded you can save required resources to file, using `Save to file` button in `Loaded schematics` menu, and then press the link to file in chat to open it instantly
 
 # Schematics
 ## Big iron farm
