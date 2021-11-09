@@ -31,7 +31,7 @@ This is an ultimate guide for dominating on any surviwal server without wasting 
 - `Generic.pasteReplaceBehaviour` allows you to make choice, if you want to replace air from schematic or not (I mean schematic paste, not printing!)
 - You can paste schematic using the stick and `Hotkeys.executeOperation` key (Change that key, because it usually conflicts with social button)
 
-## General tips
+## General
 - To optimize schematic with complicated shape, you can create if from several selections
 - Do not forget to create a previev for schematic after uploading using `Schematic manager` in litematica menu
 
